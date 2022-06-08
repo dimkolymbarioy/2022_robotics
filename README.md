@@ -21,9 +21,26 @@
 Στον κάδο υπάρχει ένα καπάκι από χαρτόνι. Όταν ο κάδος είναι πλήρης το καπάκι δεν μπορεί να κλείσει και δεν δημιουργείτε κλειστό κύκλωμα. Στην περίπτωση αυτή στέλνετε σήμα ότι ο κάδος είναι πλήρης στον μαθητή που φοράει το Micro:bit στο χέρι ασύρματα.
 
 ### Υλικά
-1.	BBC micro:bit Board 18,90χ2= 37,8
-2.	Μπαταριοθήκη 2xΑΑ με JST PH 0,40χ2= 0,80
-3.	Buzzer 2-5V 30mA = 0,65
-4.	Servo Micro 2.2kg.cm Plastic Gears 3,60x3=10,8
-Σύνολο: 50,5
+1.	BBC micro:bit Board 18,90€
+2.	Μπαταριοθήκη 3xΑΑ με JST PH  0,80€
+4.	Servo Micro 2.2kg.cm Plastic Gears 3,60€
+5.	Traffic Light for BBC micro:bit 5€
+6.	Αισθητήρας Υπερήχων 5€
+7.	Jumper Wires 15cm 4€
+Σύνολο: 37 €
+
+### Παρουσίαση Youtube
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/FV2nJcAjP18/1.jpg)](https://youtu.be/FV2nJcAjP18 "My video")
+
+### Φωτογραφικό Υλικό
+![Screenshot](IMAGES/1.jpg)
+
+![Screenshot](IMAGES/2.jpg)
+
+![Screenshot](IMAGES/3.jpg)
+
+![Screenshot](IMAGES/4.jpg)
+
+![Screenshot](IMAGES/sillogos.jpg)
+
 
