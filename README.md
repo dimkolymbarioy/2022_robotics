@@ -20,6 +20,7 @@
 
 ### Κώδικας
 Tο περιβάλλον MakeCode είναι απλό και προσιτό σε μαθητές δημοτικού (μπορείτε να το βρείτε στη διεύθυνση https://makecode.microbit.org/# ).  Αυτό θα χρησιμοποιήσουμε στη συνέχεια. 
+
 Διάγραμμα ροής του έξυπνου κάδου
 
 ![Screenshot](images/chart.jpg)
@@ -51,5 +52,10 @@ Tο περιβάλλον MakeCode είναι απλό και προσιτό σε
 ![Screenshot](images/4.jpg)
 
 ![Screenshot](images/sillogos.jpg)
+
+Ανακύκλωση στην αυλή του σχολείου
+
+![Screenshot](images/school1.jpg)
+![Screenshot](images/school2.jpg)
 
 
