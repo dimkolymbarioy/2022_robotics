@@ -35,12 +35,12 @@
 ### Φωτογραφικό Υλικό
 ![Screenshot](images/1.jpg)
 
-![Screenshot](IMAGES/2.jpg)
+![Screenshot](images/2.jpg)
 
-![Screenshot](IMAGES/3.jpg)
+![Screenshot](images/3.jpg)
 
-![Screenshot](IMAGES/4.jpg)
+![Screenshot](images/4.jpg)
 
-![Screenshot](IMAGES/sillogos.jpg)
+![Screenshot](images/sillogos.jpg)
 
 
