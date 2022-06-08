@@ -33,7 +33,7 @@
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/FV2nJcAjP18/1.jpg)](https://youtu.be/FV2nJcAjP18 "My video")
 
 ### Φωτογραφικό Υλικό
-![Screenshot](IMAGES/1.jpg)
+![Screenshot](images/1.jpg)
 
 ![Screenshot](IMAGES/2.jpg)
 
