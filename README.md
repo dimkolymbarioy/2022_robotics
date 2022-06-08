@@ -23,7 +23,8 @@ Tο περιβάλλον MakeCode είναι απλό και προσιτό σε
 Διάγραμμα ροής του έξυπνου κάδου
 ![Screenshot](images/ flow chart.jpg)
 Ο κώδικας για την υλοποίηση του έξυπνου κάδου
-![Screenshot](images/code.jpg)
+
+![Screenshot](images/code2.jpg)
 
 
 ### Υλικά
